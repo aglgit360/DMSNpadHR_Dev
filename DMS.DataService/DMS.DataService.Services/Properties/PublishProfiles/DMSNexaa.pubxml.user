@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Development\PublishNexaDMSService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DMS.DataService.Common.dll">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.Common.dll.config">
+      <publishTime>03/31/2017 12:14:06</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.Common.pdb">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataContract.dll">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataContract.dll.config">
+      <publishTime>03/31/2017 12:13:36</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataContract.pdb">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataLayer.dll">
+      <publishTime>07/14/2021 17:08:37</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataLayer.dll.config">
+      <publishTime>03/31/2017 12:13:28</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.DataLayer.pdb">
+      <publishTime>07/14/2021 17:08:37</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.LogHelper.dll">
+      <publishTime>07/14/2021 17:08:39</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.LogHelper.dll.config">
+      <publishTime>03/31/2017 12:13:18</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.LogHelper.pdb">
+      <publishTime>07/14/2021 17:08:39</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.ServiceContract.dll">
+      <publishTime>07/14/2021 17:08:38</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.ServiceContract.dll.config">
+      <publishTime>03/31/2017 12:15:18</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.ServiceContract.pdb">
+      <publishTime>07/14/2021 17:08:38</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.Services.dll">
+      <publishTime>07/14/2021 17:08:41</publishTime>
+    </File>
+    <File Include="bin/DMS.DataService.Services.pdb">
+      <publishTime>07/14/2021 17:08:41</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>06/30/2014 12:43:48</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>06/30/2014 12:43:48</publishTime>
+    </File>
+    <File Include="bin/NEXA.DataService.Business.dll">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="bin/NEXA.DataService.Business.dll.config">
+      <publishTime>03/31/2017 12:04:58</publishTime>
+    </File>
+    <File Include="bin/NEXA.DataService.Business.pdb">
+      <publishTime>07/14/2021 17:08:36</publishTime>
+    </File>
+    <File Include="NEXAService.svc">
+      <publishTime>03/31/2017 12:34:22</publishTime>
+    </File>
+    <File Include="PullALLConfigurations.txt">
+      <publishTime>01/13/2021 15:32:10</publishTime>
+    </File>
+    <File Include="PullALLConfigurationsProd.txt">
+      <publishTime>01/13/2021 15:32:10</publishTime>
+    </File>
+    <File Include="PullALLConfigurationsStaging.txt">
+      <publishTime>01/13/2021 15:32:10</publishTime>
+    </File>
+    <File Include="T1.txt">
+      <publishTime>07/26/2019 19:19:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/02/2021 09:26:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

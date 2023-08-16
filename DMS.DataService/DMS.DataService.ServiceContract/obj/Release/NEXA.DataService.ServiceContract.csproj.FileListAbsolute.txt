@@ -1,0 +1,92 @@
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.xml
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.xml
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.dll
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.xml
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.dll
+D:\Development\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\System.ServiceModel.Web.xml
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb

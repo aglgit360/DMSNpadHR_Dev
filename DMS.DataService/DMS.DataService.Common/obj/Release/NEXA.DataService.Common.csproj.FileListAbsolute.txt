@@ -1,0 +1,50 @@
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService_NEXA\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb

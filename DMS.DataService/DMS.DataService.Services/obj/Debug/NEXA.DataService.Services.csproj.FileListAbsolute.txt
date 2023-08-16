@@ -1,0 +1,310 @@
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+C:\Users\Nitin\Desktop\UpdatedCode\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojResolveAssemblyReference.cache
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\N-GitHub Project\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\DMS_6_Api\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb

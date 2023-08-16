@@ -1,0 +1,54 @@
+********** 3/15/2018 4:03:34 PM **********
+Exception Type: System.Exception
+Exception: System.Data.OracleClient requires Oracle client software version 8.1.7 or greater.
+Source: NEXAService_SADashboardOnlyForCurrentDate
+Stack Trace: 
+   at System.Data.OracleClient.OCI.DetermineClientVersion()
+   at System.Data.OracleClient.OracleInternalConnection.OpenOnLocalTransaction(String userName, String password, String serverName, Boolean integratedSecurity, Boolean unicode, Boolean omitOracleConnectionName)
+   at System.Data.OracleClient.OracleInternalConnection..ctor(OracleConnectionString connectionOptions)
+   at System.Data.OracleClient.OracleConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at NEXA.DataService.Services.NEXAService.SADashboardOnlyForCurrentDate(String pn_dealer_cd, String pn_loc_cd, String pn_user_id) in C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\NEXAService.svc.cs:line 7838
+
+********** 3/15/2018 5:15:44 PM **********
+Exception Type: System.Exception
+Exception: System.Data.OracleClient requires Oracle client software version 8.1.7 or greater.
+Source: NEXAService_SADashboardOnlyForCurrentDate
+Stack Trace: 
+   at System.Data.OracleClient.OCI.DetermineClientVersion()
+   at System.Data.OracleClient.OracleInternalConnection.OpenOnLocalTransaction(String userName, String password, String serverName, Boolean integratedSecurity, Boolean unicode, Boolean omitOracleConnectionName)
+   at System.Data.OracleClient.OracleInternalConnection..ctor(OracleConnectionString connectionOptions)
+   at System.Data.OracleClient.OracleConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at NEXA.DataService.Services.NEXAService.SADashboardOnlyForCurrentDate(String pn_dealer_cd, String pn_loc_cd, String pn_user_id) in C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\NEXAService.svc.cs:line 7838
+
+********** 3/15/2018 5:15:44 PM **********
+Exception Type: System.Exception
+Exception: System.Data.OracleClient requires Oracle client software version 8.1.7 or greater.
+Source: NEXAService_SADashboardOnlyForCurrentDate
+Stack Trace: 
+   at System.Data.OracleClient.OCI.DetermineClientVersion()
+   at System.Data.OracleClient.OracleInternalConnection.OpenOnLocalTransaction(String userName, String password, String serverName, Boolean integratedSecurity, Boolean unicode, Boolean omitOracleConnectionName)
+   at System.Data.OracleClient.OracleInternalConnection..ctor(OracleConnectionString connectionOptions)
+   at System.Data.OracleClient.OracleConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OracleClient.OracleConnection.Open()
+   at NEXA.DataService.Services.NEXAService.SADashboardOnlyForCurrentDate(String pn_dealer_cd, String pn_loc_cd, String pn_user_id) in C:\Users\Balesh\Documents\Mukesh\Development\NEXA\DMS.DataService\DMS.DataService.Services\NEXAService.svc.cs:line 7838
+
