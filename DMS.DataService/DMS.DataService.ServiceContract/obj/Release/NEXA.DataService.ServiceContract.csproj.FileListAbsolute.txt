@@ -90,3 +90,14 @@ D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\ob
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Release\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Release\DMS.DataService.ServiceContract.pdb

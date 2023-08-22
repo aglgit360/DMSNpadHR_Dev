@@ -1112,5 +1112,36 @@ namespace NEXA.DataService.Services
         }
         #endregion
 
+        #region Read Log
+        /// <summary>
+        /// 102
+        /// This function is used read log file from DMS server working for Nexa NPAD.
+        /// </summary>
+        /// <param name="fileName"></param>
+        /// <returns></returns>
+        public BaseListReturnType<string> ReadLogFiles(string fileName)
+        {
+            BaseListReturnType<string> response = new BaseListReturnType<string>();
+
+            try
+            {
+                string logFilePath = ConfigurationManager.AppSettings["PullAppLogPath"].ToString();
+
+                string logFile = logFilePath + fileName;
+
+                string res = File.ReadAllText(logFile).ToString();
+
+                response.code = (int)ServiceMassageCode.SUCCESS;
+                response.message = res;
+            }
+            catch (Exception Ex)
+            {
+                response.code = 100;
+                response.message = Ex.Message;
+            }
+            return response;
+        }
+        #endregion
+
     }
 }

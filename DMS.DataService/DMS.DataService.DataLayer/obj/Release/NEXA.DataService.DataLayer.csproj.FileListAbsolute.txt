@@ -82,3 +82,14 @@ D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Rele
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\NEXA.DataService.DataLayer.csproj.CopyComplete
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\NEXA.DataService.DataLayer.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\NEXA.DataService.DataLayer.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\NEXA.DataService.DataLayer.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb

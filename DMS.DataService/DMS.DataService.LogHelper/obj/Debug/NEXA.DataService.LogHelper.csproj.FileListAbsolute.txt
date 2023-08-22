@@ -169,3 +169,18 @@ D:\DMS_6_Api\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataServic
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataService.LogHelper.csproj.CopyComplete
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\Newtonsoft.Json.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataService.LogHelper.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataService.LogHelper.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataService.LogHelper.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb

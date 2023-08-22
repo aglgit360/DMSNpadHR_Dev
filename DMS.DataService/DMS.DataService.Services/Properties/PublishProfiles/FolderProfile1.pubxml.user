@@ -28,37 +28,37 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/14/2023 14:36:19</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.dll">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>08/22/2023 14:28:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.pdb">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>08/22/2023 14:28:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.dll">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>08/22/2023 14:28:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.pdb">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>08/22/2023 14:28:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.dll">
-      <publishTime>08/14/2023 14:36:20</publishTime>
+      <publishTime>08/22/2023 14:38:25</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.pdb">
-      <publishTime>08/14/2023 14:36:20</publishTime>
+      <publishTime>08/22/2023 14:38:25</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Services.dll">
-      <publishTime>08/14/2023 14:36:20</publishTime>
+      <publishTime>08/22/2023 14:38:25</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Services.pdb">
-      <publishTime>08/14/2023 14:36:20</publishTime>
+      <publishTime>08/22/2023 14:38:25</publishTime>
     </File>
     <File Include="bin/MongoDB.Bson.dll">
       <publishTime>01/17/2023 12:59:31</publishTime>
@@ -88,7 +88,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/14/2023 14:36:20</publishTime>
+      <publishTime>08/22/2023 14:28:32</publishTime>
     </File>
   </ItemGroup>
 </Project>

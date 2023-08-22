@@ -128,3 +128,14 @@ D:\DMS_6_Api\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataS
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.pdb
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.dll.config
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.pdb

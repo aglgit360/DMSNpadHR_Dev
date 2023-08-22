@@ -56,7 +56,11 @@ namespace NEXA.DataService.ServiceContract
         BaseListReturnType<CNGTestingdueDate> GetCNGTestingdueDate(string PN_TESTING_DATE);
         #endregion
 
-     
+        #region Read Log
+        [OperationContract]
+        [WebInvoke(Method = "POST", BodyStyle = WebMessageBodyStyle.WrappedRequest, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, UriTemplate = "ReadLogFiles")]
+        BaseListReturnType<string> ReadLogFiles(string fileName);
+        #endregion
 
     }
 }

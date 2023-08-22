@@ -192,3 +192,29 @@ D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Relea
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\NEXA.DataService.Services.csproj.CopyComplete
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
 D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\NEXA.DataService.Services.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\NEXA.DataService.Services.csproj.CopyComplete
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
