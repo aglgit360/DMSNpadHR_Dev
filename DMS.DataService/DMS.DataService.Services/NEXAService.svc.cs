@@ -532,7 +532,7 @@ namespace NEXA.DataService.Services
                 Typedetail.PO_FC_OK_DATE = cmd.Parameters["PO_FC_OK_DATE"].Value.ToString();  // added on 20 Feb 2023
                 Typedetail.PO_CATALYTIC_CONV_NUM = cmd.Parameters["PO_CATALYTIC_CONV_NUM"].Value.ToString();  // added on 20 Feb 2023
 
-                Typedetail.PO_CORP_CUST_FLAG = Convert.ToString(cmd.Parameters["PO_CORP_CUST_FLAG"]);  // added on 30 June 2023
+                Typedetail.PO_CORP_CUST_FLAG = cmd.Parameters["PO_CORP_CUST_FLAG"].Value.ToString();  // added on 30 June 2023
                 Typedetail.PO_CORP_NAME = cmd.Parameters["PO_CORP_NAME"].Value.ToString();  // added on 30 June 2023
 
                 Details.Add(Typedetail);

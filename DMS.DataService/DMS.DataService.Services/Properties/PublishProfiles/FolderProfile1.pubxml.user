@@ -10,55 +10,55 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/DMS.DataService.Common.dll">
-      <publishTime>08/04/2023 14:17:44</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Common.dll.config">
       <publishTime>01/17/2023 12:59:30</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Common.pdb">
-      <publishTime>08/04/2023 14:17:44</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataContract.dll">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>09/08/2023 13:36:10</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataContract.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataContract.pdb">
-      <publishTime>08/14/2023 14:36:19</publishTime>
+      <publishTime>09/08/2023 13:36:10</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.dll">
-      <publishTime>08/22/2023 14:28:31</publishTime>
+      <publishTime>09/08/2023 13:36:10</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.DataLayer.pdb">
-      <publishTime>08/22/2023 14:28:31</publishTime>
+      <publishTime>09/08/2023 13:36:10</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.dll">
-      <publishTime>08/22/2023 14:28:31</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.LogHelper.pdb">
-      <publishTime>08/22/2023 14:28:31</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.dll">
-      <publishTime>08/22/2023 14:38:25</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.dll.config">
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/DMS.DataService.ServiceContract.pdb">
-      <publishTime>08/22/2023 14:38:25</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Services.dll">
-      <publishTime>08/22/2023 14:38:25</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/DMS.DataService.Services.pdb">
-      <publishTime>08/22/2023 14:38:25</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/MongoDB.Bson.dll">
       <publishTime>01/17/2023 12:59:31</publishTime>
@@ -67,13 +67,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/17/2023 12:59:31</publishTime>
     </File>
     <File Include="bin/NEXA.DataService.Business.dll">
-      <publishTime>08/04/2023 14:17:44</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="bin/NEXA.DataService.Business.dll.config">
       <publishTime>01/17/2023 12:59:30</publishTime>
     </File>
     <File Include="bin/NEXA.DataService.Business.pdb">
-      <publishTime>08/04/2023 14:17:44</publishTime>
+      <publishTime>09/08/2023 13:36:11</publishTime>
     </File>
     <File Include="NEXAService.svc">
       <publishTime>01/17/2023 12:59:31</publishTime>

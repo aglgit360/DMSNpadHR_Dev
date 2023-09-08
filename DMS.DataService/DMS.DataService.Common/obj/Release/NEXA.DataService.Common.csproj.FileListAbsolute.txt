@@ -48,3 +48,10 @@ D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.Data
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Release\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Release\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Release\DMS.DataService.Common.pdb

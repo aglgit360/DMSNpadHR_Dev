@@ -48,3 +48,10 @@ D:\N-GitHub Project\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.Da
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.csproj.CoreCompileInputs.cache
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.dll
 D:\N-GitHub Project\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Release\NEXA.DataService.Business.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Release\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Release\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Release\NEXA.DataService.Business.pdb

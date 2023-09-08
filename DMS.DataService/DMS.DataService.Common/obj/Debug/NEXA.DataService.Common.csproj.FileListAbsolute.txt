@@ -78,3 +78,10 @@ D:\DMS_6_Api\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Co
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb

@@ -79,3 +79,10 @@ D:\DMS_6_Api\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csproj.CoreCompileInputs.cache
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
 D:\DMS_6_Api\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojAssemblyReference.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csproj.CoreCompileInputs.cache
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
