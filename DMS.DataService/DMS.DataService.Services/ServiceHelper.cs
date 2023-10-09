@@ -5,6 +5,7 @@ using System.Web;
 using System.ServiceModel.Web;
 using System.Configuration;
 using System.IO;
+using DMS.DataService.Services;
 
 namespace NEXA.DataService.Services
 {
@@ -52,6 +53,32 @@ namespace NEXA.DataService.Services
             return headerInfo;
         }
 
+        public static ServiceHeaderInfo1 Authenticate2(IncomingWebRequestContext requestContext)
+        {
+            ServiceHeaderInfo1 headerInfo = new ServiceHeaderInfo1();
+            System.Net.WebHeaderCollection headerCollection = requestContext.Headers;
+            //headerInfo.Token = headerCollection["Token"];
+
+            string authorization = headerCollection["Token"];
+            string type = headerCollection["type"];
+            //string authorization = requestContext.Headers["token"];
+            //If we don't find the authorization header return null  
+
+            //if (string.IsNullOrEmpty(authorization))
+            //{
+            //    return null;
+            //}
+            //get the token from the auth header           
+            //if (authorization.StartsWith("Bearer ", StringComparison.OrdinalIgnoreCase))
+            //{
+            headerInfo.Token = authorization.Substring("Bearer ".Length).Trim();
+            //type = type.Trim().ToString();
+            //}
+            return TokenGenerate.ValidateToken(headerInfo.Token, type);
+            //return GetPrincipalFromExpiredToken(headerInfo.Token);
+
+        }
+
 
         public static string GetDateFormat(string date)
         {
@@ -89,5 +116,12 @@ namespace NEXA.DataService.Services
 
         public bool IsAuthenticated { get; set; }
         public string Token { get; set; }
+    }
+
+    public class ServiceHeaderInfo1
+    {
+        public bool IsAuthenticated { get; set; }
+        public string Token { get; set; }
+        public string Message { get; set; }
     }
 }

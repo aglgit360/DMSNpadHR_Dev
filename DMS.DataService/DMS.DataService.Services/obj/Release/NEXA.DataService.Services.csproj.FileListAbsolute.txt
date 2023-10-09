@@ -218,3 +218,6 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\R
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\NEXA.DataService.Services.csproj.CopyComplete
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.dll
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.xml

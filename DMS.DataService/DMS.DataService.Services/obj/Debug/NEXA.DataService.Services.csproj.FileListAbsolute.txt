@@ -311,6 +311,7 @@ D:\DMS_Six_Api\Dms_SixApi_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
@@ -329,6 +330,8 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\D
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.pdb
+D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.xml
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete

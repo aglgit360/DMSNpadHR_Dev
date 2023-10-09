@@ -626,8 +626,8 @@ namespace NEXA.DataService.Services
             DIYJC_PullCustomerContact Typedetail = null;
             List<DIYJC_PullCustomerContact> Details;
 
+            //ServiceHeaderInfo1 headerInfo = ServiceHelper.Authenticate2(WebOperationContext.Current.IncomingRequest);
             ServiceHeaderInfo headerInfo = ServiceHelper.Authenticate(WebOperationContext.Current.IncomingRequest);
-            //ServiceHeaderInfo headerInfo = ServiceHelper.Authenticate(WebOperationContext.Current.IncomingRequest);
             #region Token Validating //Validate Token
             if (!headerInfo.IsAuthenticated)
             {

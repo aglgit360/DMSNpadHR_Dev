@@ -115,7 +115,7 @@ public sealed class ErrorLog
         }
     }
 
-    public static void ErrorLogException(string FunctionName, string SP_Name, string inputPara, Exception exc)
+    public static void ErrorLogException(string FunctionName, string SP_Name, string inputPara, dynamic exc)
     {
         try
         {
@@ -135,7 +135,7 @@ public sealed class ErrorLog
                     sb.AppendLine("API Name:" + FunctionName);
                     sb.AppendLine("SP_NAME:" + SP_Name);
                     //sb.AppendLine("Line No: "+ STACK.GetFileLineNumber() + " Exception Type :"+ exc.Message);
-                    sb.AppendLine("Exception Type :" + exc.Message);
+                    sb.AppendLine("Exception Type :" + exc);
                     sb.AppendLine("Input Para: " + inputPara);
                     sb.AppendLine();
 

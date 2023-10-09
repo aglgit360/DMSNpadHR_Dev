@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NEXA.DataService.Services.NEXAServiceTest" CodeBehind="NEXAServiceTest.svc.cs" %>
