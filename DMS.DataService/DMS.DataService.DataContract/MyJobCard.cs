@@ -66,6 +66,8 @@ namespace NEXA.DataService.DataContract
         public string PO_CUST_MOBILE_NUM { get; set; }
         [DataMember]
         public string PO_CONTACT_YN { get; set; }
+        [DataMember]
+        public List<DIYJC_ContactList> PO_MOB_OUT { get; set; }
     }
     #endregion
 
@@ -208,5 +210,17 @@ namespace NEXA.DataService.DataContract
         public string PN_AUTH_YN { get; set; }
     }
     #endregion
+    #endregion
+    #region Added new contacts for DIYJC Enhancement
+    [DataContract]
+    public class DIYJC_ContactList // added on 12 Jan 2024
+    {
+        [DataMember]
+        public string MOBILE_NUM { get; set; }
+        [DataMember]
+        public string REG_MOBILE_NUM { get; set; }
+        [DataMember]
+        public string MI_MOBILE_NUM { get; set; }
+    }
     #endregion
 }

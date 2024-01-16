@@ -623,6 +623,9 @@ namespace NEXA.DataService.Services
             string input = "{ 'PN_USER_ID':'" + PN_USER_ID + "', 'PN_REG_NUM':'" + PN_REG_NUM + "', 'PN_VIN':'" + PN_VIN + "'}";
             BaseListReturnType<DIYJC_PullCustomerContact> response = new BaseListReturnType<DIYJC_PullCustomerContact>();
 
+            List<DIYJC_ContactList> DIYJCContactList = new List<DIYJC_ContactList>();
+            DIYJC_ContactList DIYJCContactList1;
+
             DIYJC_PullCustomerContact Typedetail = null;
             List<DIYJC_PullCustomerContact> Details;
 
@@ -662,6 +665,8 @@ namespace NEXA.DataService.Services
                 cmd.Parameters.Add("PO_CUST_MOBILE_NUM", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
                 cmd.Parameters.Add("PO_CONTACT_YN", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
 
+                //added contact numbers for DIYJC Enhancement
+                cmd.Parameters.Add("PO_MOB_OUT", OracleType.Cursor).Direction = ParameterDirection.Output;
                 cmd.Parameters.Add("PO_ERR_CD", OracleType.Number).Direction = ParameterDirection.Output;
                 cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
 
@@ -685,6 +690,23 @@ namespace NEXA.DataService.Services
                 }
                 #endregion
 
+                OracleDataReader rdrDIYJCContactDetail;
+                rdrDIYJCContactDetail = (OracleDataReader)cmd.Parameters["PO_MOB_OUT"].Value;
+
+                #region rdrSubscriberDetail
+                if (rdrDIYJCContactDetail.HasRows)
+                {
+                    while (rdrDIYJCContactDetail.Read())
+                    {
+                        DIYJCContactList1 = new DIYJC_ContactList();
+                        DIYJCContactList1.MOBILE_NUM = Convert.ToString(rdrDIYJCContactDetail["MOBILE_NUM"]);
+                        DIYJCContactList1.REG_MOBILE_NUM = Convert.ToString(rdrDIYJCContactDetail["REG_MOBILE_NUM"]);
+                        DIYJCContactList1.MI_MOBILE_NUM = Convert.ToString(rdrDIYJCContactDetail["MI_MOBILE_NUM"]);
+                        DIYJCContactList.Add(DIYJCContactList1);
+                    }
+                }
+                #endregion
+
                 #region Assigning Values
                 Details = new List<DIYJC_PullCustomerContact>();
 
@@ -698,6 +720,9 @@ namespace NEXA.DataService.Services
                 Typedetail.PO_CAR_USER_NUM = cmd.Parameters["PO_CAR_USER_NUM"].Value.ToString();
                 Typedetail.PO_CUST_MOBILE_NUM = cmd.Parameters["PO_CUST_MOBILE_NUM"].Value.ToString();
                 Typedetail.PO_CONTACT_YN = cmd.Parameters["PO_CONTACT_YN"].Value.ToString();
+
+                //Added for new contact details for DIYJC
+                Typedetail.PO_MOB_OUT = DIYJCContactList;
 
                 Details.Add(Typedetail);
                 #endregion
