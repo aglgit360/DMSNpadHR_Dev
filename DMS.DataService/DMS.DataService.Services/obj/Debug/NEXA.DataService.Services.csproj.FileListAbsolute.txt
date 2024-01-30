@@ -337,3 +337,32 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\D
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\NEXA.DataService.Business.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\crypto.xml
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csprojAssemblyReference.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CoreCompileInputs.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb

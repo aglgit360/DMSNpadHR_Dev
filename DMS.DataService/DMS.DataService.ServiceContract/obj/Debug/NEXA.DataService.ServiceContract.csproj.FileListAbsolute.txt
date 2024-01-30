@@ -139,3 +139,14 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContrac
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CopyComplete
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.ServiceContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\DMS.DataService.DataContract.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csprojAssemblyReference.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CoreCompileInputs.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CopyComplete
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.pdb

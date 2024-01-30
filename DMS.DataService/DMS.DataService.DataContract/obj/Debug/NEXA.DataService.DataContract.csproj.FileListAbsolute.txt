@@ -85,3 +85,10 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\b
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\NEXA.DataService.DataContract.csproj.CoreCompileInputs.cache
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\NEXA.DataService.DataContract.csproj.CoreCompileInputs.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\NEXA.DataService.DataContract.csprojAssemblyReference.cache

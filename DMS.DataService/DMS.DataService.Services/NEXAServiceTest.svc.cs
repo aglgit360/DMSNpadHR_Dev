@@ -256,7 +256,7 @@ namespace NEXA.DataService.Services
 
                 cmd.Parameters.Add("PO_CORP_CUST_FLAG", OracleType.VarChar, 1).Direction = ParameterDirection.Output;//new added 30 June 2023
                 cmd.Parameters.Add("PO_CORP_NAME", OracleType.VarChar, 500).Direction = ParameterDirection.Output;//new added 30 June 2023
-
+                cmd.Parameters.Add("po_ccp_renewal_yn", OracleType.VarChar, 500).Direction = ParameterDirection.Output;//new added 29 Jan 2024
                 cmd.Parameters.Add("po_err_cd", OracleType.Number).Direction = ParameterDirection.Output;
                 cmd.Parameters.Add("po_err_msg", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
 
@@ -534,7 +534,7 @@ namespace NEXA.DataService.Services
 
                 Typedetail.PO_CORP_CUST_FLAG = cmd.Parameters["PO_CORP_CUST_FLAG"].Value.ToString();  // added on 30 June 2023
                 Typedetail.PO_CORP_NAME = cmd.Parameters["PO_CORP_NAME"].Value.ToString();  // added on 30 June 2023
-
+                Typedetail.po_ccp_renewal_yn = cmd.Parameters["po_ccp_renewal_yn"].Value.ToString();  // added on 20 Jan 2024
                 Details.Add(Typedetail);
                 #endregion
 

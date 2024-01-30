@@ -199,6 +199,8 @@ namespace NEXA.DataService.DataContract
 
         [DataMember]
         public string PO_CORP_NAME { get; set; } // added on 20 Feb 2023
+        [DataMember]
+        public string po_ccp_renewal_yn { get; set; } // added on 20 Feb 2023
 
     }
     [DataContract]
