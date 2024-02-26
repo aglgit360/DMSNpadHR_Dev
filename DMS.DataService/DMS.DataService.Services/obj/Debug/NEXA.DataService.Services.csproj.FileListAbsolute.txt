@@ -366,3 +366,4 @@ F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\NEXA.DataService.Services.csproj.CopyComplete
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.dll
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\obj\Debug\DMS.DataService.Services.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Services\bin\Oracle.ManagedDataAccess.dll

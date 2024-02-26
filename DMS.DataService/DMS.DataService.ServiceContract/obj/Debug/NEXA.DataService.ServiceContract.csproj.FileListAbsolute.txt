@@ -150,3 +150,4 @@ F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContra
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\NEXA.DataService.ServiceContract.csproj.CopyComplete
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.dll
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\obj\Debug\DMS.DataService.ServiceContract.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.ServiceContract\bin\Debug\Oracle.ManagedDataAccess.dll

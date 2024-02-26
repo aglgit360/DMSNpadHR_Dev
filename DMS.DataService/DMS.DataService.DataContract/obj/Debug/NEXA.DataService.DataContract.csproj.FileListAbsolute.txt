@@ -92,3 +92,5 @@ F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\NEXA.DataService.DataContract.csprojAssemblyReference.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.DataContract\obj\Debug\NEXA.DataService.DataContract.csproj.CopyComplete

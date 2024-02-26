@@ -85,3 +85,12 @@ D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Deb
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
 D:\N-GitHub Project\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojAssemblyReference.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csproj.CoreCompileInputs.cache
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csproj.CopyComplete
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb

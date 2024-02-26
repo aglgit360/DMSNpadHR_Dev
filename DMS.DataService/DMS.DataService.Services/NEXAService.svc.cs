@@ -8,7 +8,9 @@ using NEXA.DataService.Common.Enum;
 using NEXA.DataService.DataLayer;
 using System.Data;
 using System.ServiceModel.Web;
-using System.Data.OracleClient;
+using Oracle.ManagedDataAccess.Client;
+using Oracle.ManagedDataAccess.Types;
+//using System.Data.OracleClient;
 using System.Configuration;
 using System.Text.RegularExpressions;
 using MongoDB.Bson;
@@ -146,120 +148,120 @@ namespace NEXA.DataService.Services
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 //Input
-                //cmd.Parameters.Add("pn_reg_num", OracleType.VarChar).Value = pn_reg_num;
-                var pInOut1 = cmd.Parameters.Add("pn_reg_num", OracleType.VarChar, 4000); //consume input-output parameter
+                //cmd.Parameters.Add("pn_reg_num", OracleDbType.Varchar2).Value = pn_reg_num;
+                var pInOut1 = cmd.Parameters.Add("pn_reg_num", OracleDbType.Varchar2, 4000); //consume input-output parameter
                 pInOut1.Direction = ParameterDirection.InputOutput;
                 pInOut1.Value = pn_reg_num;  //changes added on 6 January 2020
 
 
 
 
-                cmd.Parameters.Add("pn_dealer_cd", OracleType.Number).Value = Convert.ToInt32(pn_dealer_cd);
-                cmd.Parameters.Add("pn_loc_cd", OracleType.VarChar).Value = pn_loc_cd;
+                cmd.Parameters.Add("pn_dealer_cd", OracleDbType.Int32).Value = Convert.ToInt32(pn_dealer_cd);
+                cmd.Parameters.Add("pn_loc_cd", OracleDbType.Varchar2).Value = pn_loc_cd;
 
-                cmd.Parameters.Add("pn_vin", OracleType.VarChar).Value = pn_vin;// added on 17 December 2019
+                cmd.Parameters.Add("pn_vin", OracleDbType.Varchar2).Value = pn_vin;// added on 17 December 2019
 
-                //cmd.Parameters.Add("PN_FIND_ID", OracleType.VarChar).Value = PN_FIND_ID;// added on 21 January 2021
+                //cmd.Parameters.Add("PN_FIND_ID", OracleDbType.Varchar2).Value = PN_FIND_ID;// added on 21 January 2021
 
                 //for output params
-                cmd.Parameters.Add("po_srvbooking_no", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_cust_id", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_cust_name", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_cust_address", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_city", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_state", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_phone", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mobile", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_pin", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_email", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_vehiclemodel", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_vin", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_rftagno", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_chassisno", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_color", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_ownveh_count", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_veh_sale_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_tv_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_n2n_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_ew_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mi_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_category", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_tv_sale_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mi_validity_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_variant_cd", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_variant_desc", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_cust_category", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_ew_type", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_ew_expiry_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_srv_model_desc", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_srv_model_cd", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_tech_cap_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_srvbooking_no", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_cust_id", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_cust_name", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_cust_address", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_city", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_state", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_phone", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mobile", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_pin", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_email", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_vehiclemodel", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_vin", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_rftagno", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_chassisno", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_color", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_ownveh_count", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_veh_sale_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_tv_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_n2n_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_ew_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mi_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_category", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_tv_sale_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mi_validity_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_variant_cd", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_variant_desc", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_cust_category", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_ew_type", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_ew_expiry_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_srv_model_desc", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_srv_model_cd", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_tech_cap_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
-                cmd.Parameters.Add("po_mcp_package_desc", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mcp_expiry_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_autocard_no", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_autocard_point", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_complement_dtl", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_last_followup_dtl", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_last_followup_by", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_govt_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_last_csi", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_theft_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mcp_package_desc", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mcp_expiry_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_autocard_no", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_autocard_point", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_complement_dtl", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_last_followup_dtl", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_last_followup_by", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_govt_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_last_csi", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_theft_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
-                cmd.Parameters.Add("po_veh_user_name", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_engine_num", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_key_no", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_sold_by", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mcp_enrol_no", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_mcp_type", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_repair", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_location", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_last_psf_status", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_last_srv_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_next_srv_due", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_next_due_date", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_veh_user_name", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_engine_num", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_key_no", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_sold_by", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mcp_enrol_no", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_mcp_type", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_repair", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_location", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_last_psf_status", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_last_srv_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_next_srv_due", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_next_due_date", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
-                cmd.Parameters.Add("po_subs_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 15 November 2019
+                cmd.Parameters.Add("po_subs_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 15 November 2019
 
                 //output cursor
-                cmd.Parameters.Add("po_subscriber_det", OracleType.Cursor).Direction = ParameterDirection.Output;// added on 15 November 2019
+                cmd.Parameters.Add("po_subscriber_det", OracleDbType.RefCursor).Direction = ParameterDirection.Output;// added on 15 November 2019
 
-                cmd.Parameters.Add("PO_SUBSCRIPTION_HIST", OracleType.Cursor).Direction = ParameterDirection.Output;// added on 25 December 2019
+                cmd.Parameters.Add("PO_SUBSCRIPTION_HIST", OracleDbType.RefCursor).Direction = ParameterDirection.Output;// added on 25 December 2019
 
-                cmd.Parameters.Add("po_first_serv_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 27 February 2020
+                cmd.Parameters.Add("po_first_serv_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 27 February 2020
 
-                cmd.Parameters.Add("po_diy_srv_type", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
-                cmd.Parameters.Add("po_diy_srv_type_desc", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
-                cmd.Parameters.Add("po_diy_odometer", OracleType.Number).Direction = ParameterDirection.Output;// added on 13 April 2020
-                cmd.Parameters.Add("po_diy_cust_dmd_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
+                cmd.Parameters.Add("po_diy_srv_type", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
+                cmd.Parameters.Add("po_diy_srv_type_desc", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
+                cmd.Parameters.Add("po_diy_odometer", OracleDbType.Int32).Direction = ParameterDirection.Output;// added on 13 April 2020
+                cmd.Parameters.Add("po_diy_cust_dmd_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 13 April 2020
 
-                cmd.Parameters.Add("po_model_channel", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 4 August 2020
+                cmd.Parameters.Add("po_model_channel", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 4 August 2020
 
-                cmd.Parameters.Add("po_Counter_measure", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 12 January 2021
+                cmd.Parameters.Add("po_Counter_measure", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 12 January 2021
 
                 //need to remove when on production
-                //cmd.Parameters.Add("po_find_id_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;// added on 1 June 2021
+                //cmd.Parameters.Add("po_find_id_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;// added on 1 June 2021
 
-                cmd.Parameters.Add("po_ccp_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output; // added on 10 march 2022
-                cmd.Parameters.Add("PO_RECALL_PIC_YN", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;//new added column 4 april 2022
-                cmd.Parameters.Add("po_ccp_refcur", OracleType.Cursor).Direction = ParameterDirection.Output;//new added cursor 5 May 2022
+                cmd.Parameters.Add("po_ccp_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output; // added on 10 march 2022
+                cmd.Parameters.Add("PO_RECALL_PIC_YN", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;//new added column 4 april 2022
+                cmd.Parameters.Add("po_ccp_refcur", OracleDbType.RefCursor).Direction = ParameterDirection.Output;//new added cursor 5 May 2022
 
-                cmd.Parameters.Add("po_subsequent_visit_yn", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;//new added 16 Sept 2022
+                cmd.Parameters.Add("po_subsequent_visit_yn", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;//new added 16 Sept 2022
 
-                cmd.Parameters.Add("PO_TC_YN_NEW", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;//new added 27 Oct 2022
-                cmd.Parameters.Add("PO_RECALL_PIC_YN_NEW", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;//new added 27 Oct 2022
+                cmd.Parameters.Add("PO_TC_YN_NEW", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;//new added 27 Oct 2022
+                cmd.Parameters.Add("PO_RECALL_PIC_YN_NEW", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;//new added 27 Oct 2022
 
-                //cmd.Parameters.Add("PO_holdup_refcur", OracleType.Cursor).Direction = ParameterDirection.Output; //Added on 22 Nov 2022
+                //cmd.Parameters.Add("PO_holdup_refcur", OracleDbType.RefCursor).Direction = ParameterDirection.Output; //Added on 22 Nov 2022
 
-                cmd.Parameters.Add("PO_FC_OK_DATE", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;//new added 20 Feb 2023
-                cmd.Parameters.Add("PO_CATALYTIC_CONV_NUM", OracleType.VarChar, 50).Direction = ParameterDirection.Output;//new added 20 Feb 2023
+                cmd.Parameters.Add("PO_FC_OK_DATE", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;//new added 20 Feb 2023
+                cmd.Parameters.Add("PO_CATALYTIC_CONV_NUM", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;//new added 20 Feb 2023
 
-                cmd.Parameters.Add("PO_CORP_CUST_FLAG", OracleType.VarChar, 1).Direction = ParameterDirection.Output;//new added 30 June 2023
-                cmd.Parameters.Add("PO_CORP_NAME", OracleType.VarChar, 500).Direction = ParameterDirection.Output;//new added 30 June 2023
-                cmd.Parameters.Add("po_ccp_renewal_yn", OracleType.VarChar, 500).Direction = ParameterDirection.Output;//new added 29 Jan 2024
+                cmd.Parameters.Add("PO_CORP_CUST_FLAG", OracleDbType.Varchar2, 1).Direction = ParameterDirection.Output;//new added 30 June 2023
+                cmd.Parameters.Add("PO_CORP_NAME", OracleDbType.Varchar2, 500).Direction = ParameterDirection.Output;//new added 30 June 2023
+                cmd.Parameters.Add("po_ccp_renewal_yn", OracleDbType.Varchar2, 500).Direction = ParameterDirection.Output;//new added 29 Jan 2024
 
-                cmd.Parameters.Add("po_err_cd", OracleType.Number).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("po_err_msg", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_err_cd", OracleDbType.Int32).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("po_err_msg", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
 
                 //err3 = " 3 ";
@@ -275,15 +277,19 @@ namespace NEXA.DataService.Services
 
                 //err5 = " 5 ";
 
-                OracleDataReader rdrSubscriberDetail;
-                OracleDataReader rdrSubscriberHistory;
-                OracleDataReader po_ccp_refcur;
+                //OracleDataReader rdrSubscriberDetail;
+                //OracleDataReader rdrSubscriberHistory;
+                //OracleDataReader po_ccp_refcur;
                 //OracleDataReader PO_holdup_refcur;//Added on 22 Nov 2022
 
-                rdrSubscriberDetail = (OracleDataReader)cmd.Parameters["po_subscriber_det"].Value;
-                rdrSubscriberHistory = (OracleDataReader)cmd.Parameters["PO_SUBSCRIPTION_HIST"].Value;
-                po_ccp_refcur = (OracleDataReader)cmd.Parameters["po_ccp_refcur"].Value;//Added on 5 May 2022
+                //rdrSubscriberDetail = (OracleDataReader)cmd.Parameters["po_subscriber_det"].Value;
+                //rdrSubscriberHistory = (OracleDataReader)cmd.Parameters["PO_SUBSCRIPTION_HIST"].Value;
+                //po_ccp_refcur = (OracleDataReader)cmd.Parameters["po_ccp_refcur"].Value;//Added on 5 May 2022
                 //PO_holdup_refcur = (OracleDataReader)cmd.Parameters["PO_holdup_refcur"].Value;//Added on 22 Nov 2022
+
+                OracleDataReader rdrSubscriberDetail = ((Oracle.ManagedDataAccess.Types.OracleRefCursor)cmd.Parameters["po_subscriber_det"].Value).GetDataReader();
+                OracleDataReader rdrSubscriberHistory = ((Oracle.ManagedDataAccess.Types.OracleRefCursor)cmd.Parameters["PO_SUBSCRIPTION_HIST"].Value).GetDataReader();
+                OracleDataReader po_ccp_refcur = ((Oracle.ManagedDataAccess.Types.OracleRefCursor)cmd.Parameters["po_ccp_refcur"].Value).GetDataReader();
 
                 #endregion
                 //// string outputStr = string.Empty;
@@ -653,24 +659,24 @@ namespace NEXA.DataService.Services
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 //Input
-                cmd.Parameters.Add("PN_USER_ID", OracleType.VarChar).Value = PN_USER_ID;
+                cmd.Parameters.Add("PN_USER_ID", OracleDbType.Varchar2).Value = PN_USER_ID;
 
-                var pInOut1 = cmd.Parameters.Add("PN_REG_NUM", OracleType.VarChar, 4000); //consume input-output parameter
+                var pInOut1 = cmd.Parameters.Add("PN_REG_NUM", OracleDbType.Varchar2, 4000); //consume input-output parameter
                 pInOut1.Direction = ParameterDirection.InputOutput;
                 pInOut1.Value = PN_REG_NUM;
 
-                cmd.Parameters.Add("PN_VIN", OracleType.VarChar).Value = PN_VIN;
+                cmd.Parameters.Add("PN_VIN", OracleDbType.Varchar2).Value = PN_VIN;
 
                 //for output params
-                cmd.Parameters.Add("PO_DEALER_CD", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_CAR_USER_NUM", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_CUST_MOBILE_NUM", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_CONTACT_YN", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_DEALER_CD", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_CAR_USER_NUM", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_CUST_MOBILE_NUM", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_CONTACT_YN", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
                 //added contact numbers for DIYJC Enhancement
-                cmd.Parameters.Add("PO_MOB_OUT", OracleType.Cursor).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_CD", OracleType.Number).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_MOB_OUT", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_CD", OracleDbType.Int32).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_MSG", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
                 if (con.State == ConnectionState.Closed)
                 {
@@ -680,7 +686,7 @@ namespace NEXA.DataService.Services
                 #endregion
 
                 #region Code to check Error Message
-                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()))
+                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()) && Convert.ToString(cmd.Parameters["PO_ERR_CD"].Value) == "1")
                 {
                     response.code = Convert.ToInt32(cmd.Parameters["PO_ERR_CD"].Value.ToString());
                     response.message = cmd.Parameters["PO_ERR_MSG"].Value.ToString();
@@ -692,8 +698,10 @@ namespace NEXA.DataService.Services
                 }
                 #endregion
 
-                OracleDataReader rdrDIYJCContactDetail;
-                rdrDIYJCContactDetail = (OracleDataReader)cmd.Parameters["PO_MOB_OUT"].Value;
+                //OracleDataReader rdrDIYJCContactDetail;
+                //rdrDIYJCContactDetail = (OracleDataReader)cmd.Parameters["PO_MOB_OUT"].Value;
+
+                OracleDataReader rdrDIYJCContactDetail = ((Oracle.ManagedDataAccess.Types.OracleRefCursor)cmd.Parameters["PO_MOB_OUT"].Value).GetDataReader();
 
                 #region rdrSubscriberDetail
                 if (rdrDIYJCContactDetail.HasRows)
@@ -790,21 +798,21 @@ namespace NEXA.DataService.Services
                 cmd.Connection = con;
                 cmd.CommandText = Usp_DIYJC_PushCustomerSMS;
                 cmd.CommandType = CommandType.StoredProcedure;
-                cmd.Parameters.Add("PN_USER_ID", OracleType.VarChar).Value = PN_USER_ID;
-                cmd.Parameters.Add("PN_REG_NUM", OracleType.VarChar).Value = PN_REG_NUM;
-                cmd.Parameters.Add("PN_SMS_NUM", OracleType.VarChar).Value = PN_SMS_NUM;
-                cmd.Parameters.Add("PN_SMS_LINK", OracleType.VarChar).Value = PN_SMS_LINK;
+                cmd.Parameters.Add("PN_USER_ID", OracleDbType.Varchar2).Value = PN_USER_ID;
+                cmd.Parameters.Add("PN_REG_NUM", OracleDbType.Varchar2).Value = PN_REG_NUM;
+                cmd.Parameters.Add("PN_SMS_NUM", OracleDbType.Varchar2).Value = PN_SMS_NUM;
+                cmd.Parameters.Add("PN_SMS_LINK", OracleDbType.Varchar2).Value = PN_SMS_LINK;
 
                 //for output params
-                cmd.Parameters.Add("PO_ERR_CD", OracleType.Number).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_CD", OracleDbType.Int32).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_MSG", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
 
                 if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 cmd.ExecuteNonQuery();
-                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()))
+                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()) && Convert.ToString(cmd.Parameters["PO_ERR_CD"].Value) == "1")
                 {
                     response.code = Convert.ToInt32(cmd.Parameters["PO_ERR_CD"].Value.ToString());
                     response.message = cmd.Parameters["PO_ERR_MSG"].Value.ToString();
@@ -878,12 +886,12 @@ namespace NEXA.DataService.Services
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 //Input
-                cmd.Parameters.Add("PN_USER_ID", OracleType.VarChar).Value = PN_USER_ID;
+                cmd.Parameters.Add("PN_USER_ID", OracleDbType.Varchar2).Value = PN_USER_ID;
 
-                cmd.Parameters.Add("PO_SRV_ADV_REFCUR", OracleType.Cursor).Direction = ParameterDirection.Output;// output Ref Cursor
+                cmd.Parameters.Add("PO_SRV_ADV_REFCUR", OracleDbType.RefCursor).Direction = ParameterDirection.Output;// output Ref Cursor
 
-                cmd.Parameters.Add("PO_ERR_CD", OracleType.Number).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 4000).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_CD", OracleDbType.Int32).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_MSG", OracleDbType.Varchar2, 4000).Direction = ParameterDirection.Output;
                 if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
@@ -892,7 +900,7 @@ namespace NEXA.DataService.Services
                 da = new OracleDataAdapter(cmd);
                 ds = new DataSet();
                 da.Fill(ds);
-                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()))
+                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()) && Convert.ToString(cmd.Parameters["PO_ERR_CD"].Value) == "1")
                 {
                     response.code = Convert.ToInt32(cmd.Parameters["PO_ERR_CD"].Value.ToString());
                     response.message = cmd.Parameters["PO_ERR_MSG"].Value.ToString();
@@ -994,16 +1002,16 @@ namespace NEXA.DataService.Services
                 cmd.CommandText = USP_SP_CHECK_CNG_VEH;
                 cmd.CommandType = CommandType.StoredProcedure;
 
-                cmd.Parameters.Add("PN_VIN", OracleType.VarChar).Value = PN_VIN;
-                cmd.Parameters.Add("PO_CNG_MSG", OracleType.VarChar, 500).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_CD", OracleType.Number, 8).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 500).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PN_VIN", OracleDbType.Varchar2).Value = PN_VIN;
+                cmd.Parameters.Add("PO_CNG_MSG", OracleDbType.Varchar2, 500).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_CD", OracleDbType.Int32, 8).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_MSG", OracleDbType.Varchar2, 500).Direction = ParameterDirection.Output;
                 if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 cmd.ExecuteNonQuery();
-                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()))
+                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()) && Convert.ToString(cmd.Parameters["PO_ERR_CD"].Value) == "1")
                 {
                     response.code = Convert.ToInt32(cmd.Parameters["PO_ERR_CD"].Value.ToString());
                     response.message = cmd.Parameters["PO_ERR_MSG"].Value.ToString();
@@ -1079,18 +1087,18 @@ namespace NEXA.DataService.Services
                 cmd.CommandText = USP_SP_CNG_TESTING_DUE;
                 cmd.CommandType = CommandType.StoredProcedure;
 
-                cmd.Parameters.Add("PN_TESTING_DATE", OracleType.VarChar).Value = PN_TESTING_DATE;
-                cmd.Parameters.Add("PO_TESTING_DUE", OracleType.VarChar, 200).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_MSG", OracleType.VarChar, 200).Direction = ParameterDirection.Output;  //Added on 22 Dec 2022
+                cmd.Parameters.Add("PN_TESTING_DATE", OracleDbType.Varchar2).Value = PN_TESTING_DATE;
+                cmd.Parameters.Add("PO_TESTING_DUE", OracleDbType.Varchar2, 200).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_MSG", OracleDbType.Varchar2, 200).Direction = ParameterDirection.Output;  //Added on 22 Dec 2022
 
-                cmd.Parameters.Add("PO_ERR_CD", OracleType.Number, 8).Direction = ParameterDirection.Output;
-                cmd.Parameters.Add("PO_ERR_MSG", OracleType.VarChar, 500).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_CD", OracleDbType.Int32, 8).Direction = ParameterDirection.Output;
+                cmd.Parameters.Add("PO_ERR_MSG", OracleDbType.Varchar2, 500).Direction = ParameterDirection.Output;
                 if (con.State == ConnectionState.Closed)
                 {
                     con.Open();
                 }
                 cmd.ExecuteNonQuery();
-                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()))
+                if (!string.IsNullOrEmpty(cmd.Parameters["PO_ERR_MSG"].Value.ToString()) && Convert.ToString(cmd.Parameters["PO_ERR_CD"].Value) == "1")
                 {
                     response.code = Convert.ToInt32(cmd.Parameters["PO_ERR_CD"].Value.ToString());
                     response.message = cmd.Parameters["PO_ERR_MSG"].Value.ToString();

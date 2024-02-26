@@ -199,3 +199,4 @@ F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\NEXA.DataService.LogHelper.csproj.CopyComplete
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
 F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+F:\Github_Code\N-PAD\DMSNpadHR_Dev\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\Oracle.ManagedDataAccess.dll
